@@ -9,7 +9,7 @@ import java.security.PublicKey;
 public class Upload {
     private String mName;
     private String mImage;
-    private int a; 
+    private int a,n;
     public Upload()
     {}
     public Upload(String nm, String img)
