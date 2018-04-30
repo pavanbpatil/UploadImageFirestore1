@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "993110829273",
+    "firebase_url": "https://firestoredemo-c5639.firebaseio.com",
+    "project_id": "firestoredemo-c5639",
+    "storage_bucket": "firestoredemo-c5639.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993110829273:android:dee66adde2a5e8fb",
+        "android_client_info": {
+          "package_name": "com.example.mindwings.firestoredeno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993110829273-g7rbipfpmikk1ho4an237a9nut48470t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC11_bwm_ZYMq-6Ug5tTjC7Gd29l1hZfkQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993110829273:android:ad16d05e6a566776",
+        "android_client_info": {
+          "package_name": "com.mindwings.fcmnotificationdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993110829273-tjqvbp33psmlmpd1eol80a7q8nr5hu7i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mindwings.fcmnotificationdemo",
+            "certificate_hash": "be2897dc337eba8a1185c269eda96f0fbdb9ce10"
+          }
+        },
+        {
+          "client_id": "993110829273-g7rbipfpmikk1ho4an237a9nut48470t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC11_bwm_ZYMq-6Ug5tTjC7Gd29l1hZfkQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993110829273-g7rbipfpmikk1ho4an237a9nut48470t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993110829273:android:8904a76118e76607",
+        "android_client_info": {
+          "package_name": "com.mindwings.uploadimagefirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993110829273-q85mjippld35e3k24ui4dfkj9qu40tgn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mindwings.uploadimagefirestore",
+            "certificate_hash": "be2897dc337eba8a1185c269eda96f0fbdb9ce10"
+          }
+        },
+        {
+          "client_id": "993110829273-g7rbipfpmikk1ho4an237a9nut48470t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC11_bwm_ZYMq-6Ug5tTjC7Gd29l1hZfkQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993110829273-g7rbipfpmikk1ho4an237a9nut48470t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
