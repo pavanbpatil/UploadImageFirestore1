@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
     ProgressBar progressbar;
     EditText imagename;
         String abc;
-        int p,k;
+        int p,k, kk;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
